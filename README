@@ -1,0 +1,4 @@
+Run app:
+    python app.py
+
+Python version >= 3.4
